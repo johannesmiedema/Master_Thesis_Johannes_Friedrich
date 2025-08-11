@@ -1,3 +1,3 @@
-# Master_Thesis_Johannes_Friedrich
-# Master_Thesis_Johannes_Friedrich
-# Master_Thesis_Johannes_Friedrich
+# Master Theses Code Repository from Johannes Friedrich 
+
+In this Repository, Run Reports as well as Scripts used for bioinformatic analyses are provided.
